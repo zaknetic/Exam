@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  h5 {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .basket-item {
+    background-color: #fdfdfd;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .basket-image {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .order-summary {
+    background-color: #fdfdfd;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .list-group-item {
+    background-color: transparent;
+    border: none;
+  }
+  
+  .list-group-item:last-child {
+    border-top: 2px solid #ddd;
+  }
+  
